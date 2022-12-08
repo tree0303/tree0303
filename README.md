@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+<p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tree0303&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tree0303&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
