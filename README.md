@@ -51,7 +51,7 @@
 
 
 
-- 🌱 I’m currently learning **Java, Python, PHP**
+- 🌱 I’m currently learning **Java, Python, PHP, HTML, SCSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
