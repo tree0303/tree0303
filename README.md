@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tree0303&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tree0303&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
