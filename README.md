@@ -4,7 +4,7 @@
   <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=tree0303&theme=merko&show_icons=ture" />
 </p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=tree0303&theme=merko)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=tree0303&theme=merko&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
