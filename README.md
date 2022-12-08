@@ -55,6 +55,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tree1503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tree1503" height="30" width="40" /></a>
+<a href="https://twitter.com/tree1503" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tree1503" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/tree1503" target="blank">
+    <img src="https://img.shields.io/twitter/follow/tree1503?logo=twitter&style=for-the-badge" alt="tree1503" />
+  </a>
 </p>
-<p align="left"> <a href="https://twitter.com/tree1503" target="blank"><img src="https://img.shields.io/twitter/follow/tree1503?logo=twitter&style=for-the-badge" alt="tree1503" /></a> </p>
+<p align="left">  </p>
