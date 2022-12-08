@@ -1,17 +1,59 @@
-### Hi there 👋
+<h1 align="center">初めまして、 Treeです。</h1>
+<h3 align="center">A passionate university student from Japan.</h3>
+
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tree0303&layout=compact&show_icons=true&theme=merko" />
-  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=tree0303&theme=merko&show_icons=ture" />
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+  </a> 
 </p>
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/tree0303/posts.svg)](http://qiita.com/tree0303)
 
-Here are some ideas to get you started:
+<p>
+  <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tree0303&show_icons=true&locale=en&layout=compact&theme=merko" alt="tree0303" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p>&nbsp;
+  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=tree0303&show_icons=true&locale=en&theme=merko" alt="tree0303" />
+</p>
+
+<p>
+  <img align="center" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=tree0303&theme=merko" alt="tree0303" />
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tree0303&label=Profile%20views&color=0e75b6&style=flat" alt="tree0303" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tree0303&title=Commit&theme=onedark" alt="tree0303" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/tree1503" target="blank"><img src="https://img.shields.io/twitter/follow/tree1503?logo=twitter&style=for-the-badge" alt="tree1503" /></a> </p>
+
+- 🌱 I’m currently learning **Java, Python, PHP**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/tree1503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tree1503" height="30" width="40" /></a>
+</p>
