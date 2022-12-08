@@ -49,7 +49,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tree0303&title=Commit&theme=onedark" alt="tree0303" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tree1503" target="blank"><img src="https://img.shields.io/twitter/follow/tree1503?logo=twitter&style=for-the-badge" alt="tree1503" /></a> </p>
+
 
 - 🌱 I’m currently learning **Java, Python, PHP**
 
@@ -57,3 +57,4 @@
 <p align="left">
 <a href="https://twitter.com/tree1503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tree1503" height="30" width="40" /></a>
 </p>
+<p align="left"> <a href="https://twitter.com/tree1503" target="blank"><img src="https://img.shields.io/twitter/follow/tree1503?logo=twitter&style=for-the-badge" alt="tree1503" /></a> </p>
