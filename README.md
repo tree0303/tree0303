@@ -1,5 +1,5 @@
-<h1 align="center">初めまして、 Treeです。</h1>
-<h3 align="center">A passionate university student from Japan.</h3>
+<h1 align="center">Hello!!    I'm TreeHouse.</h1>
+<h3 align="center">A university student in Japan.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,11 +34,11 @@
 </p>
 
 <p>
-  <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tree0303&show_icons=true&locale=en&layout=compact&theme=merko" alt="tree0303" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tree0303&show_icons=true&locale=en&layout=compact&theme=merko" alt="tree0303" />
 </p>
 
 <p>&nbsp;
-  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=tree0303&show_icons=true&locale=en&theme=merko" alt="tree0303" />
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=tree0303&show_icons=true&locale=en&theme=merko" alt="tree0303" />
 </p>
 
 <p>
